@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "product-card-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "comoponent product-card",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
